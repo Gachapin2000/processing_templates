@@ -2,11 +2,6 @@
 
 TODO: ここに自分の作成したprocessing codeの簡単な内容を紹介してください．
 ブロック崩し（崩すと背景が見えてくる）
-画像を挿入
-## Installation
-
-
-
 ## Usage
 
 TODO: ここに使い方を書いてください．
